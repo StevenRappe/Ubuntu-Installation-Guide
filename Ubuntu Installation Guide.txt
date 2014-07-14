@@ -9,3 +9,4 @@ Ubuntu Linux Installation process
 7.	Select keyboard language layout (English).
 8.	Create a user account and password.
 9.	Restart computer after installation is complete. Remove USB from computer.
+10. New Addition, test Github Pull-Requests.
