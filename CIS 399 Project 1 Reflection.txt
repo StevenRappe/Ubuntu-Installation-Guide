@@ -1,0 +1,9 @@
+Project 1 Reflection.
+
+I have never had any contact with any kind of system administration before signing up for this class.
+As such this initial project was very informative to me. I learned that an operating system can be installed onto
+an empty computer easily and quickly. I also learned that the operating system includes standard basic software applications
+such as Mozilla Firefox and programs with functionality comparable to Microsoft Office, Power Point, and Excel.
+
+Our installation document follows our installation process every step of the way. The final version includes what we did, in what order
+we did it, and it also includes a listing of the features that were included in the installed product.
